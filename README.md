@@ -1,3 +1,11 @@
+# Dockerized version with customized theme for HBP 
+
+## Usage
+
+- `./build.sh`
+ - `./landslide.sh examples/markdown/slides.md`
+
+
 # Landslide
 
 Landslide generates a slideshow using from markdown, ReST, or textile. It
